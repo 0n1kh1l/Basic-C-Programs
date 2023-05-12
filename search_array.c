@@ -2,7 +2,7 @@
 int main(int argc, char const *argv[])
 {
 	int n;
-	printf("nter length of an array :");
+	printf("Enter length of an array :");
 	scanf("%d",&n);
 	int nums[n];
 	for (int i = 0; i < n; ++i)
